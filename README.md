@@ -1,0 +1,3 @@
+This website is a Password Generator tool that allows users to create secure, random passwords based on customizable criteria. Users can specify the desired password length and choose whether to include uppercase letters, lowercase letters, numbers, and symbols in their generated password.
+
+The interface is simple and user-friendly, with a clear layout featuring input controls for password options, a "Generate Password" button, and a result display area where the generated password appears. The site also offers the ability to copy the generated password to the clipboard with a single click for easy use.
